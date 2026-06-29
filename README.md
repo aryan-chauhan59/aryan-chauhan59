@@ -1,8 +1,8 @@
 # 👨🏻‍💻About Me:
-Hi, I'm Aryan Chauhan. I am currently pursuing a Bachelor of Engineering in Computer Science & Business Systems at the Heritage Institute of Technology, Kolkata (Class of 2027). I am passionate about problem-solving, actively participate in college hackathons, and enjoy building user-focused web applications.  
-🚀What I'm working on:Building SpendBuddy, a personal finance tracker that features offline data management, real-time budget monitoring with visual alerts, and an interactive bilingual mock AI chat assistant.  
-Tech Stack:Programming Languages: Java, Python  Web Technologies: HTML, CSS, JavaScript  
-Databases & Tools: MySQL, Node.js, VS Code
+Hi, I'm Aryan Chauhan. 
+Education: CS & Business Systems Undergrad @ Heritage Institute of Technology.  
+Currently Building: SpendBuddy, a personal finance tracker with real-time budget monitoring.  
+Tech Stack: Java, Python, HTML/CSS/JS, MySQL, Node.js. 
 How to reach me: Drop me an email at aryanchauhan2460@gmail.com  
 
 
