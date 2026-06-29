@@ -3,7 +3,7 @@ Hi, I'm Aryan Chauhan.
 Education: CS & Business Systems Undergrad @ Heritage Institute of Technology.  
 Currently Building: SpendBuddy, a personal finance tracker with real-time budget monitoring.  
 Tech Stack: Java, Python, HTML/CSS/JS, MySQL, Node.js. 
-How to reach me: Drop me an email at aryanchauhan2460@gmail.com  
+Contact: Drop me an email at aryanchauhan2460@gmail.com  
 
 
 ## 🌐 Socials:
