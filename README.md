@@ -3,7 +3,7 @@ Hi, I'm Aryan Chauhan. I am currently pursuing a Bachelor of Engineering in Comp
 🚀What I'm working on:Building SpendBuddy, a personal finance tracker that features offline data management, real-time budget monitoring with visual alerts, and an interactive bilingual mock AI chat assistant.  
 Tech Stack:Programming Languages: Java, Python  Web Technologies: HTML, CSS, JavaScript  
 Databases & Tools: MySQL, Node.js, VS Code
-How to reach me:Drop me an email at aryanchauhan2460@gmail.com  
+How to reach me: Drop me an email at aryanchauhan2460@gmail.com  
 
 
 ## 🌐 Socials:
